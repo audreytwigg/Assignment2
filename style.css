@@ -1,0 +1,61 @@
+body {
+
+}
+.block-one {
+    color: cadetblue;
+    font-family: 'Nunito', sans-serif;
+    max-width: 1440px;
+    max-height: 600px;
+    margin: 100px 450px 100px 450px;
+    text-align: justify;
+    
+}
+
+.h-one {
+    color: cadetblue;
+    font-family: 'Supermercado One', cursive;
+    font-size: 24pt
+
+}
+
+.block-two {
+    color: gray;
+    font-family: 'Lora', serif;
+    max-width: 1440px;
+    max-height: 600px;
+    margin: 0px 450px 0px 450px;
+    text-align: justify;
+    
+}
+
+.h-two {
+    color: grey;
+    font-family: 'Oswald', sans-serif;
+    font-size: 24pt
+        
+}
+    
+.block-three {
+    color: darkblue;
+    font-family: 'Cardo', serif;
+    font-size: 14pt;
+    max-width: 1440px;
+    max-height: 600px;
+    margin: 100px 450px 100px 450px;
+    text-align: justify;
+    
+}
+
+.h-three {
+    font-family: 'Philosopher', serif;
+    font-size: 24pt;
+    
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+}
+
+p {
+
+}
